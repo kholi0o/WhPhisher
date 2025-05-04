@@ -19,7 +19,7 @@ To make this tool less likely to fail, it is advised to install the latest versi
 
 `pkg install git`
 
-`git clone https://github.com/WhBeatZ/WhPhisher.git`
+`git clone https://github.com/kholi0o/WhPhisher.git`
 
 `cd WhPhisher`
 
